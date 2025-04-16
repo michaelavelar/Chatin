@@ -2,7 +2,6 @@
 
 Neste projeto, eu criei um sistema chamado **Chat In**, um chat em tempo real do zero utilizando **Spring Boot**, **WebSocket**, **STOMP**, e finalizei com o **deploy na AWS via Elastic Beanstalk**.
 
-O meu objetivo foi mostrar, passo a passo, como você pode construir sua própria aplicação de mensagens com comunicação instantânea, do backend ao deploy na nuvem.
 
 ---
 
